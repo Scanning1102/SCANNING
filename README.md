@@ -4,12 +4,15 @@ Control de asistencia biometrico
 INTEGRANTES DEL PROYECTO
 
 Kevin Velez Betancur
+
 Alejandro Campero Graciano
+
 Julian Hernandez Rojas
 
 Jesus Eduardo Oviedo Martinez
 
 Jhon Estiven Guarin Orrego
+
 
 PROBLEMA O NECESIDAD 
 
