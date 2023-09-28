@@ -1,5 +1,5 @@
 # SCANNING
-Control de asistencia biometrico
+CONTROL DE SISTEMA BIOMETRICO
 
 INTEGRANTES DEL PROYECTO
 
