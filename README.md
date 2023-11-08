@@ -22,3 +22,5 @@ OBJETIVO GENERAL:
 
 La asistencia precisa de los estudiantes y su debida entrada y salida de un lado mas tecnologico
 
+ REPOSITORIO DE CADA INTEGRANTE
+los repositoios de los integrantes, cada integrante monto el repositorio personal al classroom con el repositorio grupal
