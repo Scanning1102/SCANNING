@@ -23,4 +23,7 @@ OBJETIVO GENERAL:
 La asistencia precisa de los estudiantes y su debida entrada y salida de un lado mas tecnologico
 
  REPOSITORIO DE CADA INTEGRANTE
-los repositoios de los integrantes, cada integrante monto el repositorio personal al classroom con el repositorio grupal
+los repositoios de los integrantes, cada integrante monto el repositorio personal al classroom con el repositorio grupal.
+
+FORMATO IEEE
+[Proyecto Scanning en Formato IEEE830.zip](https://github.com/Scanning1102/SCANNING/files/13292622/Proyecto.Scanning.en.Formato.IEEE830.zip)
